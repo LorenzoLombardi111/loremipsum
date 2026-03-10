@@ -3,7 +3,12 @@ var URLS_TO_CACHE = [
   '/',
   '/index.html',
   '/manifest.json',
-  '/og-image.svg'
+  '/og-image.svg',
+  '/vs-loremipsum-io.html',
+  '/vs-lipsum-com.html',
+  '/vs-loremipzum.html',
+  '/lorem-ipsum-for-designers.html',
+  '/lorem-ipsum-for-developers.html'
 ];
 
 self.addEventListener('install', function(event) {
