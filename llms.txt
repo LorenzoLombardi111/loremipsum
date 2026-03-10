@@ -30,4 +30,9 @@ freeloremipsum.app is a free, browser-based lorem ipsum placeholder text generat
 
 ## Pages
 
-- [Home](https://freeloremipsum.app/)
+- [Home](https://freeloremipsum.app/) — Free lorem ipsum generator app
+- [vs Lorem Ipsum IO](https://freeloremipsum.app/vs-loremipsum-io.html) — Comparison with Lorem Ipsum IO (target: lorem ipsum io alternative)
+- [vs Lipsum.com](https://freeloremipsum.app/vs-lipsum-com.html) — Comparison with Lipsum.com (target: lipsum.com alternative)
+- [vs LoremIpzum](https://freeloremipsum.app/vs-loremipzum.html) — Comparison with LoremIpzum (target: loremipzum alternative)
+- [Lorem Ipsum for Designers](https://freeloremipsum.app/lorem-ipsum-for-designers.html) — Placeholder text guide for designers (target: lorem ipsum generator for designers)
+- [Lorem Ipsum for Developers](https://freeloremipsum.app/lorem-ipsum-for-developers.html) — Placeholder text guide for developers (target: lorem ipsum generator for developers)
