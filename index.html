@@ -182,18 +182,8 @@ html.dark .theme-toggle .toggle-thumb{transform:translateX(24px)}
 .stat-chip{font-family:'DM Sans',sans-serif;font-size:12px;color:var(--text-muted);background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:4px 12px;display:flex;gap:4px;align-items:center}
 .stat-chip .stat-value{font-weight:700;color:var(--text-primary)}
 
-/* UPGRADE PROMPT */
-#upgrade-prompt{padding:12px 24px 16px;border-top:1px solid var(--border)}
-#upgrade-prompt .upgrade-feature{font-family:'DM Sans',sans-serif;font-size:13px;font-weight:500;color:var(--text-secondary);display:flex;align-items:center;gap:4px}
-#upgrade-prompt .upgrade-desc{font-family:'DM Sans',sans-serif;font-size:12px;color:var(--text-muted);margin-top:4px}
-#upgrade-prompt .upgrade-link{font-family:'DM Sans',sans-serif;font-size:12px;color:var(--accent);cursor:pointer;margin-top:4px;display:inline-block}
-#upgrade-prompt .upgrade-link:hover{text-decoration:underline}
-
 /* STATUS BAR */
 .status-bar{height:32px;background:var(--surface);border-top:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 24px;font-family:'DM Sans',sans-serif;font-size:12px;color:var(--text-muted);flex-shrink:0}
-
-/* ATTRIBUTION BADGE */
-.suite-badge{position:fixed;bottom:36px;right:12px;font-family:'DM Sans',sans-serif;font-size:11px;font-weight:400;color:var(--text-muted);padding:4px 8px;z-index:10}
 
 /* MOBILE */
 @media(max-width:768px){
@@ -202,7 +192,6 @@ html.dark .theme-toggle .toggle-thumb{transform:translateX(24px)}
 .controls-buttons{flex-direction:row;flex-wrap:wrap}
 .controls-buttons .btn{flex:1;min-width:80px}
 .output-panel{flex:1;min-height:200px}
-.suite-badge .badge-prefix{display:none}
 .header-actions .btn span.btn-label{display:none}
 }
 
@@ -279,12 +268,6 @@ html.dark .theme-toggle .toggle-thumb{transform:translateX(24px)}
       <div class="stat-chip"><span class="stat-value" id="stat-paragraphs">0</span> paragraphs</div>
       <div class="stat-chip"><span class="stat-value" id="stat-chars">0</span> characters</div>
     </div>
-    <div id="upgrade-prompt">
-      <div style="border-top:1px solid var(--border);margin-bottom:12px"></div>
-      <div class="upgrade-feature">&#128274; Custom word lists &amp; branded placeholder text</div>
-      <div class="upgrade-desc">Replace lorem ipsum with your own vocabulary, product names, or industry jargon.</div>
-      <a class="upgrade-link" href="https://freesuite.app" target="_blank" rel="noopener">Unlock with freesuite.app · $2.88/mo</a>
-    </div>
   </section>
 </main>
 
@@ -293,7 +276,6 @@ html.dark .theme-toggle .toggle-thumb{transform:translateX(24px)}
   <span id="status-right">⌘↵ Generate</span>
 </div>
 
-<div class="suite-badge"><span class="badge-prefix">by </span>freesuite.app</div>
 
 <!-- SEO CONTENT SECTION -->
 <section class="seo-content">
