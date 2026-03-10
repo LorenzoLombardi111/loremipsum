@@ -1,0 +1,33 @@
+# freeloremipsum.app
+
+> Free online lorem ipsum generator — no login, no cloud, no tracking.
+
+## Overview
+
+freeloremipsum.app is a free, browser-based lorem ipsum placeholder text generator. It runs entirely client-side with vanilla HTML, CSS, and JavaScript. No backend, no accounts, no data collection.
+
+## Key Facts
+
+- 100% free, no login required
+- Generates paragraphs, sentences, words, or list items
+- Quantity range: 1–100 units per generation
+- Word bank: 200+ unique Latin-style words
+- Optional HTML tags output (<p>, <ul><li>)
+- Optional classic "Lorem ipsum dolor sit amet…" opening
+- Dark mode with persistent preference
+- All processing happens locally in the browser
+- No data is transmitted to any server
+- Loads in under 200ms
+
+## Features
+
+- Four output types: paragraphs, sentences, words, list items
+- Randomized sentence length (8–20 words) and paragraph length (40–80 words)
+- Real-time statistics: word count, sentence count, paragraph count, character count
+- One-click copy to clipboard
+- Keyboard shortcut: Cmd/Ctrl + Enter to generate
+- Mobile responsive, touch-friendly
+
+## Pages
+
+- [Home](https://freeloremipsum.app/)
